@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883333568007",
+    "project_id": "seminarattend-8d983",
+    "storage_bucket": "seminarattend-8d983.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883333568007:android:8cb30bde35593f46adbca2",
+        "android_client_info": {
+          "package_name": "com.example.seminarattenddd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMwY-4M-NkRaHBWPY3lb5WcjtMIvmMZS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
